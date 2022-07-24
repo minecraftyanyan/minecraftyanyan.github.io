@@ -1,4 +1,4 @@
-package 学生管理系统;
+package 瀛︾敓绠＄悊绯荤粺;
 
 public class Student{
     private String sid;
